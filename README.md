@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **aldimenur@gmail.com**
 
-- ✅ My work <a href="https://aldimenur.noobie.cyou/">aldimenur.noobie.cyou</a>
+- ✅ My work <a href="https://aldimenur.netlify.app/">Aldimenur Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
